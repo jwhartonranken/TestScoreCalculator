@@ -1,0 +1,10 @@
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\bin\Debug\EX3-2.exe.config
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\bin\Debug\EX3-2.exe
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\bin\Debug\EX3-2.pdb
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\obj\Debug\EX3-2.csprojAssemblyReference.cache
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\obj\Debug\EX3_2.FormInputScores.resources
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\obj\Debug\EX3_2.Properties.Resources.resources
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\obj\Debug\EX3-2.csproj.GenerateResource.cache
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\obj\Debug\EX3-2.csproj.CoreCompileInputs.cache
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\obj\Debug\EX3-2.exe
+C:\Users\whart\Desktop\Ranken\CSharpTwentyTwentyOne\Homework\HOT\EX3-2\obj\Debug\EX3-2.pdb
